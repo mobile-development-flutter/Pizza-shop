@@ -14,12 +14,6 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "bloc",
-      "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/bloc-8.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "boolean_selector",
       "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2",
       "packageUri": "lib/",
@@ -60,18 +54,6 @@
       "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/collection-1.19.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
-    },
-    {
-      "name": "cupertino_icons",
-      "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
-      "name": "equatable",
-      "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/equatable-2.0.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -120,12 +102,6 @@
       "rootUri": "file:///Users/ramindujayaweera/development/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.7"
-    },
-    {
-      "name": "flutter_bloc",
-      "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/flutter_bloc-8.1.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "flutter_lints",
@@ -194,12 +170,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "nested",
-      "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/nested-1.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "path",
       "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/path-1.9.1",
       "packageUri": "lib/",
@@ -210,12 +180,6 @@
       "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
-    },
-    {
-      "name": "provider",
-      "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/provider-6.1.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "rxdart",
@@ -272,12 +236,6 @@
       "languageVersion": "3.5"
     },
     {
-      "name": "user_repository",
-      "rootUri": "../packages/user_repository",
-      "packageUri": "lib/",
-      "languageVersion": "3.8"
-    },
-    {
       "name": "vector_math",
       "rootUri": "file:///Users/ramindujayaweera/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -296,7 +254,7 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "pizza_shop",
+      "name": "user_repository",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.8"
